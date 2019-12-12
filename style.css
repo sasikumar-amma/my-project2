@@ -1,0 +1,32 @@
+#menu{
+    background: #111;
+    color:white;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin: 20px;
+}
+#section2 img{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+#section2{
+    padding-top: 100px;
+}
+span.Hi{
+    font-weight: lighter;
+}
+span.name{
+    font-weight: bold;
+}
+span.html5up{
+    text-transform: uppercase;
+    text-decoration: underline;
+
+}
